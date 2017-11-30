@@ -1,0 +1,24 @@
+<resources>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <!--SPLASH-->
+    <string name="splash_title">Splash View</string>
+
+    <!--HOME MENU-->
+    <string name="menu_add">Add</string>
+
+    <!-- LIST ITEMS -->
+    <string name="add_item_title">Add item</string>
+    <string name="add_item_label">Text</string>
+    <string name="add_item_hint">Insert text</string>
+
+    <string name="remove_item_title">Remove item</string>
+    <string name="remove_item_text">Are you sure?</string>
+
+
+    <!-- ERROR -->
+    <string name="error_undefined">Oops, something was wrong!</string>
+
+
+</resources>

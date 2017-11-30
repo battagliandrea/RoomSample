@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:exitFadeDuration="@android:integer/config_mediumAnimTime">
+    <!--PRESSED-->
+    <item android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/orange_pressed"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <!--NORMAL-->
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/orange"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>
+
