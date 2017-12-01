@@ -7,8 +7,9 @@ Android sample that use room to read, write and delete element from internal db
 2. RxJava2
 3. Dagger2
 
-![alt text](http://http://andreadev.com/github/image1.png)
+![image](http://andreadev.com/github/image1.png)
 
-![alt text](http://http://andreadev.com/github/image2.png)
+![image](http://andreadev.com/github/image2.png)
 
-![alt text](http://http://andreadev.com/github/image3.png)
+![image](http://andreadev.com/github/image3.png)
+
